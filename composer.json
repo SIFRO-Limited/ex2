@@ -1,0 +1,8 @@
+{
+    "name": "sifro/ex2",
+    "autoload": {
+        "psr-4": {
+            "sifro\\ex2\\": ""
+        }
+    }
+}
